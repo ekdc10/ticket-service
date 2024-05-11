@@ -1,0 +1,5 @@
+# Created at 2024-05-11T11:50:35.980
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Working\Eka\ticket-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
